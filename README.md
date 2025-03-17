@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Hi, I’m [NAFIJ ISLAM] 👋
 
+💻 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-**nafij-islam/nafij-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Tech Stack:
+    🟢 Frontend: HTML, CSS, JavaScript, React, Next.js
+    🟣 Backend: Node.js, Express.js
+    🟠 Database: MongoDB, MySQL
+    🔵 Tools: Git, GitHub, Docker
 
-Here are some ideas to get you started:
+🔥 Passionate about building scalable and efficient web applications.
+🚀 Currently learning advanced backend development & cloud deployment.
+🎯 Love solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💡 “Talk is cheap. Show me the code.” – Linus Torvalds
+
 
