@@ -18,5 +18,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafij-islam&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nafij-islam/contributions?format=svg&private=false)  
+
 
