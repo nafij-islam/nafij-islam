@@ -1,4 +1,5 @@
 ### Hi there 👋, My Name is Nafij Islam
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafij-islam&label=Profile%20views&color=0e75b6&style=flat" alt="nafij-islam" /> </p>
 #### "Full Stack Developer specializing in modern web technologies like React, Node.js, and MongoDB."
 👋 Hi there! I'm a passionate Full Stack Web Developer with a love for building interactive and user-friendly web applications. I specialize in both frontend and backend development, working with technologies like HTML, CSS, JavaScript, Node.js, and MongoDB.
 
