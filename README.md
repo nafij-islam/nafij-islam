@@ -11,7 +11,7 @@
 
 Let's connect and build something awesome together!
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/nafij-islam/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
