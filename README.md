@@ -12,6 +12,7 @@
 Let's connect and build something awesome together!
 
 ![svg](https://raw.githubusercontent.com/nafij-islam/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+[日本語](./docs/README.ja-jp.md) | [Español](./docs/README.es-es.md)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
