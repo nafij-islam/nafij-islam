@@ -11,9 +11,6 @@
 
 Let's connect and build something awesome together!
 
-![svg](https://raw.githubusercontent.com/nafij-islam/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
-
-
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Learning React.js to build dynamic front-end applications 
