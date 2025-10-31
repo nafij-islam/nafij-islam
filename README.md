@@ -11,7 +11,7 @@
 
 Let's connect and build something awesome together!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Tailwind / 
 
 - 🔭 I’m currently working on Learning React.js to build dynamic front-end applications 
 - 🌱 I’m currently learning React.js for front-end development  Node.js and Express.js for building back-end APIs  MongoDB for database management  Tailwind CSS for modern UI styling 
