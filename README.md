@@ -29,19 +29,19 @@ Hi! I'm **Litan Molla**, a passionate **Frontend Developer** from Bangladesh. I 
 ## 🔗 Connect With Me  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/litanmolla/">
+<a href="https://www.linkedin.com">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
 </a>
 
-<a href="https://github.com/litanMolla">
+<a href="https://github.com/nafij-islam">
   <img src="https://skillicons.dev/icons?i=github" height="45" style="margin-right: 15px;" />
 </a>
 
-<a href="mailto:litanmolla9@gmail.com">
+<a href="mailto:sahariannafis70@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
 </a>
 
-<a href="https://www.facebook.com/LITANMOLLA09">
+<a href="https://www.facebook.com">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
 </a>
 
