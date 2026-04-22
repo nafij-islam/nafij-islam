@@ -1,5 +1,5 @@
 <!-- 🌊 Premium Header Banner -->
-<img width="100%" src="[https://capsule-render.vercel.app/api](https://capsule-render.vercel.app/api)?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=NAFIJ%20ISLAM&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=NAFIJ%20ISLAM&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
 
 <div align="center"> 
   
