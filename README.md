@@ -4,7 +4,7 @@
 <div align="center"> 
   
 ## 👋 About Me  
-Hi! I'm **Litan Molla**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. I love turning ideas into functional interfaces and creating smooth user experiences.
+Hi! I'm **Nafij Islam**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. I love turning ideas into functional interfaces and creating smooth user experiences.
 
 ---
 
