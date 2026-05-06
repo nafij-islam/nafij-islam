@@ -15,16 +15,7 @@ Hi! I'm **Nafij Islam**, a passionate **Frontend Developer** from Bangladesh. I 
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
 
-![Liton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAFIJ-ISLAM&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAFIJ-ISLAM&layout=compact)
-
-</div>
-
----
 
 ## 🔗 Connect With Me  
 <div align="center">
