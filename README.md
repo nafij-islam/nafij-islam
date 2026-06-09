@@ -32,7 +32,7 @@ Hi! I'm **Nafij Islam**, a passionate **Frontend Developer** from Bangladesh. I 
   <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
 </a>
 
-<a href="facebook.com/nafijislam99">
+<a href="https://facebook.com/nafijislam99">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
 </a>
 
