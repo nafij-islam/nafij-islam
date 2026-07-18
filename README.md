@@ -9,10 +9,11 @@ Hi! I'm **NAFIJ ISLAM**, a passionate **Frontend Developer** from Bangladesh. I 
 ---
 
 ## 🛠️ Skills & Tools  
-<div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,styledcomponents,js,ts,react,nextjs,redux,vite,nodejs,express,nestjs,graphql,apollo,mongodb,mysql,postgres,sqlite,prisma,firebase,supabase,redis,git,github,githubactions,gitlab,vscode,webstorm,figma,xd,postman,vercel,netlify,cloudflare,aws,docker,kubernetes,bash,linux,powershell,npm,pnpm,yarn,webpack,babel,jest,cypress" />
+<h2 align="center">🛠️ Skills & Tools</h2>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,styledcomponents,js,ts,react,nextjs,redux,vite,nodejs,express,nestjs,graphql,apollo,mongodb,mysql,postgres,sqlite,prisma,firebase,supabase,redis,git,github,githubactions,gitlab,vscode,webstorm,figma,xd,postman,vercel,netlify,cloudflare,aws,docker,kubernetes,bash,linux,powershell,npm,pnpm,yarn,webpack,babel,jest,cypress" />
+</p>
 
 ---
 
