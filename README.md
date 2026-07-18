@@ -7,15 +7,10 @@
 Hi! I'm **NAFIJ ISLAM**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. I love turning ideas into functional interfaces and creating smooth user experiences.
 
 ---
-
-## 🛠️ Skills & Tools  
 <h2 align="center">🛠️ Skills & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,styledcomponents,js,ts,react,nextjs,redux,vite,nodejs,express,nestjs,graphql,apollo,mongodb,mysql,postgres,sqlite,prisma,firebase,supabase,redis,git,github,githubactions,gitlab,vscode,webstorm,figma,xd,postman,vercel,netlify,cloudflare,aws,docker,kubernetes,bash,linux,powershell,npm,pnpm,yarn,webpack,babel,jest,cypress" />
 </p>
-
----
 
 ---
 
